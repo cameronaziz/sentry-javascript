@@ -7,6 +7,7 @@
     // "declarationMap": false,
 
     "allowSyntheticDefaultImports": true,
+    "target": "es6",
     "types": ["node"],
     "noErrorTruncation": true // move me up to @sentry/typescript
   }
